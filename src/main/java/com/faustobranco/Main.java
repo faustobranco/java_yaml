@@ -61,9 +61,6 @@ public class Main {
 
         JsonNode contactNode = root.path("uses");
         if (contactNode.isArray()) {
-
-            System.out.println("Is this node an Array? " + contactNode.isArray());
-
             for (JsonNode node : contactNode) {
                 String Database = node.path("Database").toString ();
                 String Algorithm = node.path("Algorithm").toString ();
