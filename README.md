@@ -5,7 +5,7 @@ Java project with examples for reading YAML files.
 
   ## Getting Started
   
-The project, done in Java 1.9 using IntelliJ 2019.3 and Maven, simply shows six ways of reading yaml files ** only for reference**:
+The project, done in Java 1.9 using IntelliJ 2019.3 and Maven, simply shows six ways of reading yaml files **only for reference**:
 
  - How to merge two yaml files into one class ... the second yaml file
    overlaps the values of the first yaml file.
