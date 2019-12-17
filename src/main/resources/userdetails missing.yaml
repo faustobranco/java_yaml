@@ -1,0 +1,32 @@
+id: Ex1
+name: Guest
+area: Database
+uses:
+  -
+    Database:
+      - D1
+      - D2
+    MetaFeature:
+      - M1
+      - M2
+    Algorithm:
+      - A1
+      - A2
+    Config:
+      - C1
+      - C2
+  -
+    Database:
+      - D3
+      - D4
+    MetaFeature:
+      - M3
+      - M4
+    Algorithm:
+      - A3
+      - A24
+    Config:
+      - C3
+      - C4
+country: Portugal
+city: Porto
